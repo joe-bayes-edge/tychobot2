@@ -274,7 +274,7 @@ export default function Home() {
                   DEVELOPMENT_FOCUS
                 </h3>
                 <p className="text-white/80 text-base sm:text-lg tracking-wide tech-text leading-relaxed">
-                  As a development platform, Tycho 1.0 is designed to push the
+                  As a development platform, Tycho 2.0 is designed to push the
                   boundaries of robotic capabilities. Our focus is on creating a
                   versatile system that can serve as a foundation for research
                   and innovation in robotics.
