@@ -35,7 +35,7 @@ function PurchaseModal({ isOpen, onClose }) {
           </button>
 
           <h3 className="mono text-2xl sm:text-3xl font-medium tracking-tighter text-white mb-2">
-            TYCHO_1.0 // DEVELOPER_EDITION
+            TYCHO_2.0 // DEVELOPER_EDITION
           </h3>
           <p className="text-white/60 text-xs sm:text-sm tracking-widest tech-text mb-6">
             EARLY_ACCESS_DEVELOPMENT_PLATFORM
@@ -148,7 +148,7 @@ export default function Home() {
                   </h1>
                   <div className="h-6 w-px bg-white/10"></div>
                   <p className="text-white/60 text-xs sm:text-sm tracking-widest tech-text">
-                    ROBOTICS DIVISION
+                    TYCHO.BOT ROBOTICS DIVISION
                   </p>
                 </div>
                 <div className="flex items-center justify-center">
@@ -194,7 +194,7 @@ export default function Home() {
                 // INTRODUCING
               </div>
               <h2 className="text-3xl sm:text-4xl md:text-6xl font-bold mb-1 sm:mb-2 text-white tracking-tighter tech-text">
-                TYCHO_1.0
+                TYCHO_2.0
               </h2>
               <p className="text-base sm:text-lg md:text-xl mb-3 sm:mb-6 text-white/80 tracking-wide tech-text leading-relaxed">
                 just two arms and some wheels
@@ -215,7 +215,7 @@ export default function Home() {
           <div className="container mx-auto px-4 sm:px-6">
             <div className="bg-black/20 backdrop-blur-md px-4 sm:px-6 py-2.5 sm:py-3 rounded-2xl shadow-[inset_0px_0.5px_0px_rgba(255,255,255,0.3)] border border-white/10 max-w-fit mx-auto">
               <p className="mono text-white/40 text-xs sm:text-sm tracking-wide">
-                © 2024 BAYES_EDGE_ROBOTICS // ALL_RIGHTS_RESERVED
+                © 2025 BAYES_EDGE_ROBOTICS // ALL_RIGHTS_RESERVED
               </p>
             </div>
           </div>
@@ -227,7 +227,7 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6">
           <div className="max-w-4xl mx-auto">
             <div className="mono text-white/60 text-xs sm:text-sm tracking-widest mb-3">
-              // ABOUT_TYCHO_1.0
+              // ABOUT_TYCHO_2.0
             </div>
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-8 text-white tracking-tighter tech-text">
               ADVANCING_ROBOTICS_DEVELOPMENT
