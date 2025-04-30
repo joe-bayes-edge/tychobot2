@@ -67,7 +67,7 @@ function PurchaseModal({ isOpen, onClose }) {
                 <div className="flex items-start gap-3">
                   <div className="text-white/60 mono text-xs">{">"}</div>
                   <p className="text-white/80 text-sm tracking-wide tech-text">
-                    Complete Tycho 1.0 robotic system with dual-arm
+                    Complete Tycho 2.0 robotic system with dual-arm
                     configuration
                   </p>
                 </div>
@@ -239,7 +239,7 @@ export default function Home() {
                   PLATFORM_OVERVIEW
                 </h3>
                 <p className="text-white/80 text-base sm:text-lg tracking-wide tech-text leading-relaxed mb-6">
-                  Tycho 1.0 represents our first iteration in advanced robotics
+                  Tycho 2.0 represents our first iteration in advanced robotics
                   development. Built with a focus on versatility and precision,
                   it features a dual-arm configuration mounted on a mobile base
                   platform.
@@ -301,7 +301,7 @@ export default function Home() {
 
             <div className="bg-black/20 backdrop-blur-md p-6 sm:p-8 rounded-2xl border border-white/10 shadow-[inset_0px_0.5px_0px_rgba(255,255,255,0.3)]">
               <p className="text-white/80 text-base sm:text-lg tracking-wide tech-text leading-relaxed mb-8">
-                Interested in Tycho 1.0 or want to learn more about our robotics
+                Interested in Tycho 2.0 or want to learn more about our robotics
                 development platform? Our team is ready to assist you with any
                 questions about capabilities, implementation, or potential
                 collaborations.
